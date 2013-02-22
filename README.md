@@ -3,6 +3,9 @@ dict2xml
 
 Simple command line utility to convert a dictionary text file into a MarkLogic dictionary / spell XML file.
 
+example
+-------
+
 e.g. a plain text dictionary file
 
 ```   
